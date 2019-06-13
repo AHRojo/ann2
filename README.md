@@ -11,7 +11,7 @@ By Andres Huerta &amp; Manuel Weitzman
 ## Get the code
 ```bash
 git clone https://github.com/AHRojo/ann2
-cd ann1
+cd ann2
 ```
 
 ## Execution
